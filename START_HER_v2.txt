@@ -1,0 +1,11 @@
+ADR Gods Pro v2
+
+1. Opprett nytt GitHub-repo: adr-gods-pro-v2
+2. Last opp alle filene i denne pakken til repo-rota
+3. Opprett filen .github/workflows/build.yml
+4. Lim inn innholdet fra build.yml i denne pakken
+5. Commit changes
+6. Gå til Actions og kjør workflowen
+7. Last ned artifact: ADR-Gods-Pro-v2
+
+Denne pakken er laget for mobilopplasting til GitHub.
